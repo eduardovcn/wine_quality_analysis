@@ -1,0 +1,13 @@
+This repository is about a challenge offer by AdaTech.
+
+I received the data frame wine_quality.csv and had the following objectives:
+
+1. Extract all the present data
+
+2. Identify which wines were the best and what they had in common
+
+3. Find the variables that could be correlated with wine quality
+
+4. Categorize wine quality in the best possible way, to identify which wines were good and which were bad
+
+5. Statistically validate the possible correlated variables
